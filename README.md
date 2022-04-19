@@ -5,4 +5,4 @@ Hello !
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ib69)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debestof&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
