@@ -1,4 +1,4 @@
- Hello im Ib ! Im starting my new github page !
+ **Hello im Ib ! Im starting my new github page !**
 
  # You can find me on Discord:
  
